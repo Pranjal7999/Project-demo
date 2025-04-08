@@ -1,4 +1,4 @@
 beautifulsoup4
-#libratom
+libratom==0.7.1
 python-magic
 streamlit
