@@ -3,3 +3,4 @@ libratom==0.7.1
 python-magic
 streamlit
 libpff
+pip install --upgrade pip
