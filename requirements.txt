@@ -2,4 +2,3 @@ beautifulsoup4
 libratom==0.7.1
 python-magic
 streamlit
-
